@@ -1,2 +1,2 @@
-# quant_test1
-demonstration of quantitative analysis based trading bot  Resources
+# quant_test
+demonstration of quantitative analysis based trading bot
